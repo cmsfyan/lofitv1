@@ -1,0 +1,285 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GaziTV.bd" tvg-name="A1 Gazi TV" tvg-logo="http://ctgiptv.com/assets/images/channels/gtv.jpg?1745722029" group-title="Bangladesh",A1 Gazi TV
+http://ctgiptv.com/tv.php?stream=bk/1
+
+#EXTINF:-1 tvg-id="TSports.bd" tvg-name="A2 T Sports" tvg-logo="http://ctgiptv.com/assets/images/channels/tsports.jpg?1745722029" group-title="Sports",A2 T Sports
+http://ctgiptv.com/tv.php?stream=bk/102
+
+#EXTINF:-1 tvg-id="SonyTen1.in" tvg-name="A3 Sony Ten 1" tvg-logo="http://ctgiptv.com/assets/images/channels/sonyten1hd.jpg?1745722029" group-title="Sports",A3 Sony Ten 1
+http://ctgiptv.com/tv.php?stream=bk/20
+
+#EXTINF:-1 tvg-id="SonyTen2.in" tvg-name="A4 Sony Ten 2" tvg-logo="http://ctgiptv.com/assets/images/channels/sonyten2hd.jpg?1745722029" group-title="Sports",A4 Sony Ten 2
+http://ctgiptv.com/tv.php?stream=bk/21
+
+#EXTINF:-1 tvg-id="SonyTen3.in" tvg-name="A5 Sony Ten 3" tvg-logo="http://ctgiptv.com/assets/images/channels/sonyten3hd.jpg?1745722029" group-title="Sports",A5 Sony Ten 3
+http://ctgiptv.com/tv.php?stream=bk/22
+
+#EXTINF:-1 tvg-id="SonySix.in" tvg-name="A6 Sony Six" tvg-logo="http://ctgiptv.com/assets/images/channels/sonysixhd.jpg?1745722029" group-title="Sports",A6 Sony Six
+http://ctgiptv.com/tv.php?stream=bk/24
+
+#EXTINF:-1 tvg-id="SonyESPN.in" tvg-name="A7 Sony ESPN" tvg-logo="http://ctgiptv.com/assets/images/channels/sonyespnHD.jpg?1745722029" group-title="Sports",A7 Sony ESPN
+http://ctgiptv.com/tv.php?stream=bk/23
+
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="A7 Star Sports 1" tvg-logo="http://ctgiptv.com/assets/images/channels/starsports1hd.png?1745722029" group-title="Sports",A7 Star Sports 1
+http://ctgiptv.com/tv.php?stream=bk/25
+
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="A8 Star Sports 2" tvg-logo="http://ctgiptv.com/assets/images/channels/starsports2hd.jpg?1745722029" group-title="Sports",A8 Star Sports 2
+http://ctgiptv.com/tv.php?stream=bk/26
+
+#EXTINF:-1 tvg-id="PTVSports.pk" tvg-name="A9 PTV Sports" tvg-logo="http://ctgiptv.com/assets/images/channels/ptvsportsHD.jpg?1745722029" group-title="Sports",A9 PTV Sports
+http://ctgiptv.com/tv.php?stream=bk/73
+
+#EXTINF:-1 tvg-id="Sports18.in" tvg-name="A9 Sports 18" tvg-logo="http://ctgiptv.com/assets/images/channels/sports18.jpg?1745722029" group-title="Sports",A9 Sports 18
+http://ctgiptv.com/tv.php?stream=bk/37
+
+#EXTINF:-1 tvg-id="StarSelect1.in" tvg-name="A9 Star Select 1" tvg-logo="http://ctgiptv.com/assets/images/channels/starselect1hd.jpg?1745722029" group-title="Sports",A9 Star Select 1
+http://ctgiptv.com/tv.php?stream=bk/27
+
+#EXTINF:-1 tvg-id="StarSelect2.in" tvg-name="A9 Star Select 2" tvg-logo="http://ctgiptv.com/assets/images/channels/starselect2hd.jpg?1745722029" group-title="Sports",A9 Star Select 2
+http://ctgiptv.com/tv.php?stream=bk/28
+
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" tvg-logo="http://ctgiptv.com/assets/images/channels/aljazeera.jpg?1745722029" group-title="News",Al Jazeera
+http://102.102.102.102:8080/roarzone/bk/89/index.m3u8
+
+#EXTINF:-1 tvg-id="AnandaTV.bd" tvg-name="Ananda TV" tvg-logo="http://ctgiptv.com/assets/images/channels/anandatv.jpg?1745722029" group-title="Bangladesh",Ananda TV
+http://102.102.102.102:8080/roarzone/bk/16/index.m3u8
+
+#EXTINF:-1 tvg-id="AsianTV.bd" tvg-name="Asian Tv" tvg-logo="http://ctgiptv.com/assets/images/channels/asiantv.jpg?1745722029" group-title="Bangladesh",Asian Tv
+http://102.102.102.102:8080/roarzone/bk/62/index.m3u8
+
+#EXTINF:-1 tvg-id="ATNBangla.bd" tvg-name="ATN Bangla" tvg-logo="http://ctgiptv.com/assets/images/channels/atnbangla.jpg?1745722029" group-title="Bangladesh",ATN Bangla
+http://102.102.102.102:8080/roarzone/bk/2/index.m3u8
+
+#EXTINF:-1 tvg-id="ATNIslamic.bd" tvg-name="ATN Islamic" tvg-logo="http://ctgiptv.com/assets/images/channels/atnislamic.jpg?1745722029" group-title="Religious",ATN Islamic
+http://102.102.102.102:8080/roarzone/bk/63/index.m3u8
+
+#EXTINF:-1 tvg-id="ATNMusic.bd" tvg-name="ATN Music" tvg-logo="http://ctgiptv.com/assets/images/channels/atnmusic.jpg?1745722029" group-title="Music",ATN Music
+http://102.102.102.102:8080/roarzone/bk/82/index.m3u8
+
+#EXTINF:-1 tvg-id="ATNNews.bd" tvg-name="ATN News" tvg-logo="http://ctgiptv.com/assets/images/channels/atnnewsbangla24.jpg?1745722029" group-title="News",ATN News
+http://102.102.102.102:8080/roarzone/bk/49/index.m3u8
+
+#EXTINF:-1 tvg-id="BanglaTalkies.bd" tvg-name="Bangla Talkies" tvg-logo="http://ctgiptv.com/assets/images/channels/banglatalkies.jpg?1745722029" group-title="Movies",Bangla Talkies
+http://102.102.102.102:8080/roarzone/bk/91/index.m3u8
+
+#EXTINF:-1 tvg-id="BanglaTV.bd" tvg-name="Bangla TV" tvg-logo="http://ctgiptv.com/assets/images/channels/banglatv.jpg?1745722029" group-title="Bangladesh",Bangla TV
+http://102.102.102.102:8080/roarzone/bk/19/index.m3u8
+
+#EXTINF:-1 tvg-id="BanglaVision.bd" tvg-name="BanglaVision" tvg-logo="http://ctgiptv.com/assets/images/channels/banglavision.jpg?1745722029" group-title="Bangladesh",BanglaVision
+http://ctgiptv.com/tv.php?stream=bk/3
+
+#EXTINF:-1 tvg-id="BBCWorld.uk" tvg-name="BBC World" tvg-logo="http://ctgiptv.com/assets/images/channels/bbcworldnews.jpg?1745722029" group-title="News",BBC World
+http://ctgiptv.com/tv.php?stream=bbcworld
+
+#EXTINF:-1 tvg-id="BoishakhiTV.bd" tvg-name="Boishakhi TV" tvg-logo="http://ctgiptv.com/assets/images/channels/boishakhi.jpg?1745722029" group-title="Bangladesh",Boishakhi TV
+http://ctgiptv.com/tv.php?stream=bk/61
+
+#EXTINF:-1 tvg-id="DiscoveryKids.us" tvg-name="Cartoon Discovery Kids" tvg-logo="http://ctgiptv.com/assets/images/channels/discoverykids.jpg?1745722029" group-title="Kids",Cartoon Discovery Kids
+http://ctgiptv.com/tv.php?stream=dis-kid
+
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" tvg-logo="http://ctgiptv.com/assets/images/channels/cartoonnetworksHD.jpg?1745722029" group-title="Kids",Cartoon Network
+http://ctgiptv.com/tv.php?stream=bk/79
+
+#EXTINF:-1 tvg-id="Nick.us" tvg-name="Cartoon Nick" tvg-logo="http://ctgiptv.com/assets/images/channels/nickHD.jpg?1745722029" group-title="Kids",Cartoon Nick
+http://102.102.102.102:8080/roarzone/bk/55/index.m3u8
+
+#EXTINF:-1 tvg-id="Pogo.in" tvg-name="Cartoon Pogo" tvg-logo="http://ctgiptv.com/assets/images/channels/pogo.jpg?1745722029" group-title="Kids",Cartoon Pogo
+http://ctgiptv.com/tv.php?stream=pogo
+
+#EXTINF:-1 tvg-id="Channel24.bd" tvg-name="Channel 24" tvg-logo="http://ctgiptv.com/assets/images/channels/channel24.jpg?1745722029" group-title="News",Channel 24
+http://102.102.102.102:8080/roarzone/bk/5/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel9.bd" tvg-name="Channel 9" tvg-logo="http://ctgiptv.com/assets/images/channels/channel9.jpg?1745722029" group-title="Bangladesh",Channel 9
+http://ctgiptv.com/tv.php?stream=bk/4
+
+#EXTINF:-1 tvg-id="ChannelI.bd" tvg-name="Channel i" tvg-logo="http://ctgiptv.com/assets/images/channels/channeli.jpg?1745722029" group-title="Bangladesh",Channel i
+http://102.102.102.102:8080/roarzone/bk/6/index.m3u8
+
+#EXTINF:-1 tvg-id="ColorsBangla.in" tvg-name="Colors Bangla" tvg-logo="http://ctgiptv.com/assets/images/channels/colorsbanglaHD.jpg?1745722029" group-title="Entertainment",Colors Bangla
+http://ctgiptv.com/tv.php?stream=bk/66
+
+#EXTINF:-1 tvg-id="ColorsBanglaCinema.in" tvg-name="Colors Bangla Cinema" tvg-logo="http://ctgiptv.com/assets/images/channels/colorsbanglacinema.jpg?1745722029" group-title="Movies",Colors Bangla Cinema
+http://ctgiptv.com/tv.php?stream=colore-bangla-cinema
+
+#EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-name="Colors Cineplex" tvg-logo="http://ctgiptv.com/assets/images/channels/colorscineplex.jpg?1745722029" group-title="Movies",Colors Cineplex
+http://ctgiptv.com/tv.php?stream=colorscineplex
+
+#EXTINF:-1 tvg-id="ColorsHD.in" tvg-name="Colors HD" tvg-logo="http://ctgiptv.com/assets/images/channels/colorsHD.jpg?1745722029" group-title="Entertainment",Colors HD
+http://ctgiptv.com/tv.php?stream=bk/68
+
+#EXTINF:-1 tvg-id="DBCNews.bd" tvg-name="DBC News" tvg-logo="http://ctgiptv.com/assets/images/channels/dbcnews24.jpg?1745722029" group-title="News",DBC News
+http://102.102.102.102:8080/roarzone/bk/7/index.m3u8
+
+#EXTINF:-1 tvg-id="DeeptoTV.bd" tvg-name="Deepto TV" tvg-logo="http://ctgiptv.com/assets/images/channels/deeptotv.jpg?1745722029" group-title="Bangladesh",Deepto TV
+http://ctgiptv.com/tv.php?stream=bk/8
+
+#EXTINF:-1 tvg-id="DeshTV.bd" tvg-name="Desh TV" tvg-logo="http://ctgiptv.com/assets/images/channels/deshtv.jpg?1745722029" group-title="Bangladesh",Desh TV
+http://102.102.102.102:8080/roarzone/bk/9/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery.us" tvg-name="Discovery" tvg-logo="http://ctgiptv.com/assets/images/channels/discoverychannel.jpg?1745722029" group-title="Documentary",Discovery
+http://ctgiptv.com/tv.php?stream=discovery
+
+#EXTINF:-1 tvg-id="DiscoveryScience.us" tvg-name="Discovery Science" tvg-logo="http://ctgiptv.com/assets/images/channels/discoveryscience.jpg?1745722029" group-title="Documentary",Discovery Science
+http://ctgiptv.com/tv.php?stream=dis-science
+
+#EXTINF:-1 tvg-id="Duronto.bd" tvg-name="Duronto" tvg-logo="http://ctgiptv.com/assets/images/channels/durunto.jpg?1745722029" group-title="Bangladesh",Duronto
+http://102.102.102.102:8080/roarzone/bk/10/index.m3u8
+
+#EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-logo="http://ctgiptv.com/assets/images/channels/dw.jpg?1745722029" group-title="News",DW
+http://102.102.102.102:8080/roarzone/bk/85/index.m3u8
+
+#EXTINF:-1 tvg-id="Ekattor.bd" tvg-name="Ekattor" tvg-logo="http://ctgiptv.com/assets/images/channels/ekattortv.jpg?1745722029" group-title="Bangladesh",Ekattor
+http://102.102.102.102:8080/roarzone/bk/11/index.m3u8
+
+#EXTINF:-1 tvg-id="EkusheyTV.bd" tvg-name="Ekushey TV" tvg-logo="http://ctgiptv.com/assets/images/channels/ekushey.jpg?1745722029" group-title="Bangladesh",Ekushey TV
+http://ctgiptv.com/tv.php?stream=bk/65
+
+#EXTINF:-1 tvg-id="IndependentTV.bd" tvg-name="Independent TV" tvg-logo="http://ctgiptv.com/assets/images/channels/independenttv.jpg?1745722029" group-title="Bangladesh",Independent TV
+http://ctgiptv.com/tv.php?stream=bk/12
+
+#EXTINF:-1 tvg-id="JalshaMovies.in" tvg-name="Jalsha Movies" tvg-logo="http://ctgiptv.com/assets/images/channels/jalshamovies.jpg?1745722029" group-title="Movies",Jalsha Movies
+http://ctgiptv.com/tv.php?stream=jalshamovies
+
+#EXTINF:-1 tvg-id="JamunaTV.bd" tvg-name="Jamuna TV" tvg-logo="http://ctgiptv.com/assets/images/channels/jamunatv.jpg?1745722029" group-title="Bangladesh",Jamuna TV
+http://102.102.102.102:8080/roarzone/bk/13/index.m3u8
+
+#EXTINF:-1 tvg-id="MaasrangaTV.bd" tvg-name="Maasranga TV" tvg-logo="http://ctgiptv.com/assets/images/channels/maasrangatv.jpg?1745722029" group-title="Bangladesh",Maasranga TV
+http://ctgiptv.com/tv.php?stream=bkk51
+
+#EXTINF:-1 tvg-id="MNPlus.bd" tvg-name="MN+" tvg-logo="http://ctgiptv.com/assets/images/channels/mn+HD.jpg?1745722029" group-title="Bangladesh",MN+
+http://ctgiptv.com/tv.php?stream=mn+
+
+#EXTINF:-1 tvg-id="MohonaTV.bd" tvg-name="Mohona TV" tvg-logo="http://ctgiptv.com/assets/images/channels/mohonatv.jpg?1745722029" group-title="Bangladesh",Mohona TV
+http://102.102.102.102:8080/roarzone/bk/50/index.m3u8
+
+#EXTINF:-1 tvg-id="MoviesNow.in" tvg-name="Movies Now" tvg-logo="http://ctgiptv.com/assets/images/channels/moviesnowHD.jpg?1745722029" group-title="Movies",Movies Now
+http://ctgiptv.com/tv.php?stream=movies-now
+
+#EXTINF:-1 tvg-id="MyTV.bd" tvg-name="My TV" tvg-logo="http://ctgiptv.com/assets/images/channels/mytv.jpg?1745722029" group-title="Bangladesh",My TV
+http://102.102.102.102:8080/roarzone/bk/56/index.m3u8
+
+#EXTINF:-1 tvg-id="NagorikTV.bd" tvg-name="Nagorik" tvg-logo="http://ctgiptv.com/assets/images/channels/nagoriktv.jpg?1745722029" group-title="Bangladesh",Nagorik
+http://ctgiptv.com/tv.php?stream=bk/59
+
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="NAT Animal Planet" tvg-logo="http://ctgiptv.com/assets/images/channels/animalplanet.jpg?1745722029" group-title="Documentary",NAT Animal Planet
+http://ctgiptv.com/tv.php?stream=animalplanent
+
+#EXTINF:-1 tvg-id="NatWild.us" tvg-name="NAT Wild HD" tvg-logo="http://ctgiptv.com/assets/images/channels/wildHD.jpg?1745722029" group-title="Documentary",NAT Wild HD
+http://ctgiptv.com/tv.php?stream=wild
+
+#EXTINF:-1 tvg-id="NatGeo.us" tvg-name="National Geographic" tvg-logo="http://ctgiptv.com/assets/images/channels/nationalgeograpic.jpg?1745722029" group-title="Documentary",National Geographic
+http://ctgiptv.com/tv.php?stream=ngohd
+
+#EXTINF:-1 tvg-id="News24.bd" tvg-name="News 24" tvg-logo="http://ctgiptv.com/assets/images/channels/news24.jpg?1745722029" group-title="News",News 24
+http://102.102.102.102:8080/roarzone/bk/18/index.m3u8
+
+#EXTINF:-1 tvg-id="Nexus.bd" tvg-name="Nexus" tvg-logo="http://ctgiptv.com/assets/images/channels/nexus.jpg?1745722029" group-title="Bangladesh",Nexus
+http://ctgiptv.com/tv.php?stream=nexus
+
+#EXTINF:-1 tvg-id="NTV.bd" tvg-name="NTV" tvg-logo="http://ctgiptv.com/assets/images/channels/ntv.jpg?1745722029" group-title="Bangladesh",NTV
+http://102.102.102.102:8080/roarzone/bk/54/index.m3u8
+
+#EXTINF:-1 tvg-id="PTVWorld.pk" tvg-name="PTV World" tvg-logo="http://ctgiptv.com/assets/images/channels/ptvworld.jpg?1745722029" group-title="News",PTV World
+http://ctgiptv.com/tv.php?stream=ptvworld
+
+#EXTINF:-1 tvg-id="RTV.bd" tvg-name="RTV" tvg-logo="http://ctgiptv.com/assets/images/channels/rtv.jpg?1745722029" group-title="Bangladesh",RTV
+http://ctgiptv.com/tv.php?stream=bk/14
+
+#EXTINF:-1 tvg-id="SATV.bd" tvg-name="SA TV" tvg-logo="http://ctgiptv.com/assets/images/channels/satv.jpg?1745722029" group-title="Bangladesh",SA TV
+http://102.102.102.102:8080/roarzone/bk/15/index.m3u8
+
+#EXTINF:-1 tvg-id="SangshadTV.bd" tvg-name="Sangshad TV" tvg-logo="http://ctgiptv.com/assets/images/channels/sangshad.jpg?1745722029" group-title="Bangladesh",Sangshad TV
+http://102.102.102.102:8080/roarzone/bk/88/index.m3u8
+
+#EXTINF:-1 tvg-id="SomoyTV.bd" tvg-name="Somoy TV" tvg-logo="http://ctgiptv.com/assets/images/channels/somoytv.jpg?1745722029" group-title="News",Somoy TV
+http://ctgiptv.com/tv.php?stream=bk/17
+
+#EXTINF:-1 tvg-id="SonyAath.in" tvg-name="Sony Aat" tvg-logo="http://ctgiptv.com/assets/images/channels/sonyaath.jpg?1745722029" group-title="Entertainment",Sony Aat
+http://102.102.102.102:8080/roarzone/bk/33/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyBBCEarth.in" tvg-name="Sony BBC Earth" tvg-logo="http://ctgiptv.com/assets/images/channels/bbcearth.jpg?1745722029" group-title="Documentary",Sony BBC Earth
+http://102.102.102.102:8080/roarzone/bk/44/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyEntertainment.in" tvg-name="Sony Entertainment" tvg-logo="http://ctgiptv.com/assets/images/channels/sonyHD.jpg?1745722029" group-title="Entertainment",Sony Entertainment
+http://ctgiptv.com/tv.php?stream=bk/38
+
+#EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max" tvg-logo="http://ctgiptv.com/assets/images/channels/sonymaxHD.jpg?1745722029" group-title="Movies",Sony Max
+http://ctgiptv.com/tv.php?stream=bk/77
+
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Sony Pix" tvg-logo="http://ctgiptv.com/assets/images/channels/sonypixHD.jpg?1745722029" group-title="Movies",Sony Pix
+http://ctgiptv.com/tv.php?stream=bk/41
+
+#EXTINF:-1 tvg-id="SonySAB.in" tvg-name="Sony SAB" tvg-logo="http://ctgiptv.com/assets/images/channels/sonysab.jpg?1745722029" group-title="Entertainment",Sony SAB
+http://102.102.102.102:8080/roarzone/bk/36/index.m3u8
+
+#EXTINF:-1 tvg-id="StarGold.in" tvg-name="Star Gold" tvg-logo="http://ctgiptv.com/assets/images/channels/stargold.jpg?1745722029" group-title="Movies",Star Gold
+http://102.102.102.102:8080/roarzone/bk/75/index.m3u8
+
+#EXTINF:-1 tvg-id="StarGold2.in" tvg-name="Star Gold 2" tvg-logo="http://ctgiptv.com/assets/images/channels/stargold2hd.png?1745722029" group-title="Movies",Star Gold 2
+http://ctgiptv.com/tv.php?stream=bk/72
+
+#EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" tvg-logo="http://ctgiptv.com/assets/images/channels/starjalshahd.jpg?1745722029" group-title="Entertainment",Star Jalsha
+http://ctgiptv.com/tv.php?stream=bk/30
+
+#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies HD" tvg-logo="http://ctgiptv.com/assets/images/channels/starmoviesHD.jpg?1745722029" group-title="Movies",Star Movies HD
+http://ctgiptv.com/tv.php?stream=starmovies
+
+#EXTINF:-1 tvg-id="StarPlus.in" tvg-name="Star Plus HD" tvg-logo="http://ctgiptv.com/assets/images/channels/starplus.jpg?1745722029" group-title="Entertainment",Star Plus HD
+http://ctgiptv.com/tv.php?stream=bk/67
+
+#EXTINF:-1 tvg-id="StarWorld.in" tvg-name="Star World" tvg-logo="http://ctgiptv.com/assets/images/channels/starworldhd.jpg?1745722029" group-title="Entertainment",Star World
+http://ctgiptv.com/tv.php?stream=star-worldhd
+
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC" tvg-logo="http://ctgiptv.com/assets/images/channels/tlcHD.jpg?1745722029" group-title="Entertainment",TLC
+http://ctgiptv.com/tv.php?stream=tlc
+
+#EXTINF:-1 tvg-id="TravelXP.in" tvg-name="Travel XP" tvg-logo="http://ctgiptv.com/assets/images/channels/travelxpHD.jpg?1745722029" group-title="Travel",Travel XP
+http://ctgiptv.com/tv.php?stream=travelxp
+
+#EXTINF:-1 tvg-id="UTVAction.in" tvg-name="UTV Action" tvg-logo="http://ctgiptv.com/assets/images/channels/utvaction.jpg?1745722029" group-title="Movies",UTV Action
+http://ctgiptv.com/tv.php?stream=bk/60
+
+#EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="Z 9X Jalwa" tvg-logo="http://ctgiptv.com/assets/images/channels/9xjalwa.jpg?1745722029" group-title="Music",Z 9X Jalwa
+http://ctgiptv.com/tv.php?stream=bk/98
+
+#EXTINF:-1 tvg-id="9XM.in" tvg-name="z 9XM" tvg-logo="http://ctgiptv.com/assets/images/channels/9xm.jpg?1745722029" group-title="Music",z 9XM
+http://ctgiptv.com/tv.php?stream=bk/48
+
+#EXTINF:-1 tvg-id="MTV.in" tvg-name="z Mtv" tvg-logo="http://ctgiptv.com/assets/images/channels/mtv.jpg?1745722029" group-title="Music",z Mtv
+http://102.102.102.102:8080/roarzone/bk/46/index.m3u8
+
+#EXTINF:-1 tvg-id="ZFlix.in" tvg-name="Z&Flix" tvg-logo="http://ctgiptv.com/assets/images/channels/&flix.jpg?1745722029" group-title="Movies",Z&Flix
+http://102.102.102.102:8080/roarzone/bk/78/index.m3u8
+
+#EXTINF:-1 tvg-id="ZPictures.in" tvg-name="Z&Pictures" tvg-logo="http://ctgiptv.com/assets/images/channels/&picturesHD.jpg?1745722029" group-title="Movies",Z&Pictures
+http://ctgiptv.com/tv.php?stream=bk/100
+
+#EXTINF:-1 tvg-id="ZTv.in" tvg-name="Z&Tv HD" tvg-logo="http://ctgiptv.com/assets/images/channels/&tvHD.jpg?1745722029" group-title="Entertainment",Z&Tv HD
+http://102.102.102.102:8080/roarzone/bk/74/index.m3u8
+
+#EXTINF:-1 tvg-id="ZeeAction.in" tvg-name="Zee Action" tvg-logo="http://ctgiptv.com/assets/images/channels/zeeaction.jpg?1745722029" group-title="Movies",Zee Action
+http://102.102.102.102:8080/roarzone/bk/90/index.m3u8
+
+#EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" tvg-logo="http://ctgiptv.com/assets/images/channels/zeebanglahd.jpg?1745722029" group-title="Entertainment",Zee Bangla
+http://ctgiptv.com/tv.php?stream=bk/34
+
+#EXTINF:-1 tvg-id="ZeeBanglaCinema.in" tvg-name="Zee Bangla Cinema" tvg-logo="http://ctgiptv.com/assets/images/channels/zeebanglacinema.jpg?1745722029" group-title="Movies",Zee Bangla Cinema
+http://ctgiptv.com/tv.php?stream=bk/29
+
+#EXTINF:-1 tvg-id="ZeeBollywood.in" tvg-name="Zee Bollywood" tvg-logo="http://ctgiptv.com/assets/images/channels/zeebollywood.jpg?1745722029" group-title="Movies",Zee Bollywood
+http://102.102.102.102:8080/roarzone/bk/94/index.m3u8
+
+#EXTINF:-1 tvg-id="ZeeCafe.in" tvg-name="Zee Cafe" tvg-logo="http://ctgiptv.com/assets/images/channels/zeecafe.jpg?1745722029" group-title="Entertainment",Zee Cafe
+http://102.102.102.102:8080/roarzone/bk/69/index.m3u8
+
+#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" tvg-logo="http://ctgiptv.com/assets/images/channels/zeecinema.jpg?1745722029" group-title="Movies",Zee Cinema
+http://ctgiptv.com/tv.php?stream=bk/76
+
+#EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="Zee TV" tvg-logo="http://ctgiptv.com/assets/images/channels/zeetvHD.jpg?1745722029" group-title="Entertainment",Zee TV
+http://ctgiptv.com/tv.php?stream=bk/40
+
+#EXTINF:-1 tvg-id="Zing.in" tvg-name="Zing" tvg-logo="http://ctgiptv.com/assets/images/channels/zing.jpg?1745722029" group-title="Music",Zing
+http://102.102.102.102:8080/roarzone/bk/93/index.m3u8
+
+#EXTINF:-1 tvg-id="Zoom.in" tvg-name="Zoom" tvg-logo="http://ctgiptv.com/assets/images/channels/zoomturnon.jpg?1745722029" group-title="Music",Zoom
+http://ctgiptv.com/tv.php?stream=bk/60
